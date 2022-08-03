@@ -11,6 +11,8 @@ For example:
 
 ``` unpack egghead js/egghead-bundle.js.map ```
 
+  ``` unpack egghead js ```
+
 Note:
 
 The original minified file should be placed according to the path in sources map's `file` variable.
